@@ -29,3 +29,9 @@ Campus safety reporting often suffers from two major bottlenecks:
 ---
 
 ## 🛠️ Architecture Flow
+### Architecture Flow
+
+* 1. Ingest: Incoming text, dispatch data, and incident logs are captured via the executive UI interface or incoming webhook endpoints.
+* 2. Redact & Process: The autonomous triage layer actively strips sensitive PII (names, student IDs, and phone numbers) in real-time before routing.
+* 3. Classify & Structure: Incoming hazards and incidents are dynamically categorized into critical, high, or medium priority tiers, turning raw unstructured text into structured dispatch summaries.
+* 4. Distribute: Processed data is routed through a decoupled webhook architecture directly to public logs, dispatch teams, or integrated Relevance AI agent workflows.
