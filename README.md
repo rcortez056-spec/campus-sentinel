@@ -4,7 +4,7 @@
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Netlify-00C7B7?style=flat&logo=netlify)](https://campus-sentinel.netlify.app)
 [![Engine](https://img.shields.io/badge/AI_Engine-Google_Gemini-8E44AD?style=flat&logo=google)](https://ai.google.dev/)
-[![Orchestration](https://img.shields.io/badge/Orchestration-Relevance_AI-3498DB)](https://relevanceai.com/)
+[![Orchestration](https://img.shields.io/badge/Orchestration-Relevance_AI-3498DB)](https://relevanceai.com/?via=ramon)
 
 ---
 
